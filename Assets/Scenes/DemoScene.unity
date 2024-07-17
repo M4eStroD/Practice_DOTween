@@ -155,7 +155,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Transform: {x: 0, y: 0, z: 0}
-  Duration: 100
+  Duration: 10
   _material: {fileID: 2100000, guid: 09d2159ad30e2b441b851d8968b774e1, type: 2}
   _color: {r: 0.98783034, g: 1, b: 0.0141509175, a: 0}
 --- !u!23 &59364099
@@ -506,7 +506,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Transform: {x: 3, y: 3, z: 3}
-  Duration: 100
+  Duration: 10
 --- !u!1 &713401088
 GameObject:
   m_ObjectHideFlags: 0
@@ -703,7 +703,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Transform: {x: 180, y: 360, z: 90}
-  Duration: 100
+  Duration: 10
 --- !u!1 &1551684626
 GameObject:
   m_ObjectHideFlags: 0
@@ -781,7 +781,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_VertexColorAlwaysGammaSpace: 0
-  m_AdditionalShaderChannelsFlag: 0
+  m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0
@@ -927,7 +927,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Transform: {x: 2.5, y: 2.5, z: 2.5}
-  Duration: 100
+  Duration: 10
 --- !u!114 &1588467818
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -941,7 +941,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Transform: {x: 180, y: 360, z: 90}
-  Duration: 100
+  Duration: 10
 --- !u!114 &1588467819
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -955,7 +955,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Transform: {x: 0, y: 3.3, z: -2.5}
-  Duration: 100
+  Duration: 10
 --- !u!1 &1618450732
 GameObject:
   m_ObjectHideFlags: 0
@@ -1053,7 +1053,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Transform: {x: 0, y: 3.3, z: -0.75}
-  Duration: 100
+  Duration: 10
 --- !u!1 &1639783401
 GameObject:
   m_ObjectHideFlags: 0
